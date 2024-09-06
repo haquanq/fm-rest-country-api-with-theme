@@ -2,8 +2,8 @@
 export default {
   content: [],
   theme: {
+    fontFamily: {},
     extend: {},
   },
   plugins: [],
-}
-
+};
