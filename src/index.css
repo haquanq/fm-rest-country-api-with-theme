@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    --clr-blue-700: hsl(209, 23%, 22%); /* Dark Mode Elements */
+    --clr-blue-800: hsl(207, 26%, 17%); /* Dark Mode Background */
+    --clr-blue-900: hsl(200, 15%, 8%); /* Light Mode Text */
+    --clr-gray-200: hsl(0, 0%, 52%); /* Light Mode Input */
+    --clr-gray-100: hsl(0, 0%, 98%); /* Light Mode Background */
+    --clr-white: hsl(0, 0%, 100%); /* Dark Mode Text & Light Mode Elements */
+  }
+}
