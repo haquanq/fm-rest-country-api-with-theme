@@ -10,5 +10,10 @@
     --clr-gray-200: hsl(0, 0%, 52%); /* Light Mode Input */
     --clr-gray-100: hsl(0, 0%, 98%); /* Light Mode Background */
     --clr-white: hsl(0, 0%, 100%); /* Dark Mode Text & Light Mode Elements */
+
+    --font-main: "Nunito Sans", sans-serif;
+    --font-thin: 300;
+    --font-semibold: 600;
+    --font-black: 800;
   }
 }
