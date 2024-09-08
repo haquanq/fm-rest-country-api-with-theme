@@ -20,9 +20,9 @@ export const Header = () => {
           {usingDarkTheme ? (
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              height="24px"
+              height="20px"
               viewBox="0 -960 960 960"
-              width="24px"
+              width="20px"
               fill="#e8eaed"
               className="fill-blue-900"
             >
@@ -32,9 +32,9 @@ export const Header = () => {
             <svg
               focusable="false"
               xmlns="http://www.w3.org/2000/svg"
-              height="24px"
+              height="20px"
               viewBox="0 -960 960 960"
-              width="24px"
+              width="20px"
               fill="#e8eaed"
               className="fill-blue-900"
             >
