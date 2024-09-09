@@ -41,11 +41,11 @@ Developed with mobile-first workflow.
 
 ### Built with
 
-|                  | Tools                                |
-| ---------------- | ------------------------------------ |
-| Languages        | `JavaScript + TypeScript`            |
-| Frontend library | `React + Zustand (state management)` |
-| CSS Framework    | `TailwindCSS`                        |
+| Tool                                 | Note                 |
+| ------------------------------------ | -------------------- |
+| `JavaScript + TypeScript`            | Programming language |
+| `React + Zustand (state management)` | Frontend libararies  |
+| `TailwindCSS`                        | CSS Framework        |
 
 ## :astronaut: How to work in this repository
 
