@@ -25,13 +25,15 @@ Users should be able to:
 ### Implemented features
 
 Core features:
-
-- Search countries by names
-- Filter countries by regions
+|Feature| State|
+|---|---|
+| Search for countries by name| [ ] |
+| Filter countries by region| [ ] |
 
 Accessibility features:
-
-- Toggle dark/light mode
+| Feature | State |
+| ---------------- | ------------------ |
+| Toggle dark/light mode | [ ] |
 
 ## :boat: My workflow
 
